@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    //Transparent Colors
+
+    <color name="trans_green">#7525d366</color>
+    <color name="trans_red">#85DD2c00</color>
+    <color name="trans_puple">#7C6200EA</color>
+    <color name="trans_blue">#862962FF</color>
+    <color name="trans_yellow">#88FFD600</color>
+
+
+
+</resources>
